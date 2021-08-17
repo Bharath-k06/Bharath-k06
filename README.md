@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on  web development projects.
 ### 🌱 I’m currently learning Block chain.
 ### 📫 How to reach me: 
-    #Email 📧 :- bharathk0601@gmail.com    linkdin :- https://www.linkedin.com/in/bharath-kumar-b6a3951a6/  
+### Email 📧 :- bharathk0601@gmail.com    linkdin :- https://www.linkedin.com/in/bharath-kumar-b6a3951a6/  
