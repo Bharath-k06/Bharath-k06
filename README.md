@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔭 I’m currently under grad student pursuing my B.E degree in information science and engineering.
-### 🔭 I’m currently working as intern in PearlThoughts.
 ### 👯 I’m looking to collaborate on  web development projects.
 ### 🌱 I’m currently learning Block chain.
 ### 📫 How to reach me: 
